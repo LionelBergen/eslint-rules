@@ -1,5 +1,5 @@
 {
-  "name": "eslinter",
+  "name": "eslinter9000",
   "version": "1.0.0",
   "description": "Contains common eslint rules",
   "main": "index.js",
@@ -15,7 +15,9 @@
     "format",
     "eslinter",
     "lint",
-    "linter"
+    "linter",
+	"eslinter9000",
+	"linter9000"
   ],
   "author": "Lionel Bergen",
   "license": "ISC",
