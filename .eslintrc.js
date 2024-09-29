@@ -21,6 +21,10 @@ module.exports = {
 		"no-var": 2,
 		"eol-last": 2,
 		"no-trailing-spaces": 2,
+		"comma-spacing": [
+			"error",
+			{ "before": false, "after": true }
+		],
 		"space-before-function-paren": [
 			"error", 
 			{
